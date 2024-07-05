@@ -29,4 +29,4 @@ Contributors to Atoms are encouraged to explore, extend, and improve the platfor
 Get Involved:
 Join us in shaping the future of web-based business tools. Contribute to Atoms on GitHub and make an impact by enhancing its features, improving its usability, or sharing your feedback to help us grow and innovate.
 
-Explore Atoms today: [Link to GitHub repository]
+Explore Atoms today: [\[[Atoms](https://github.com/Ankit-kumar6220/Atoms-Frontend)\]]
